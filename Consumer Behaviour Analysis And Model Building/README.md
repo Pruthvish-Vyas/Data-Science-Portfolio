@@ -1,4 +1,4 @@
-# ECOMMERCE Data Analysis and Machine Learning Project
+# Ecommerce Data Analysis And Machine Learning Project
 
 ## Project Overview
 This project focuses on analyzing e-commerce shopping trends and building a machine learning model to predict customer behavior or other relevant outcomes. The project is divided into two main components:
