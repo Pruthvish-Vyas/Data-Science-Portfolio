@@ -333,4 +333,4 @@ elif page == "Model Information":
 
 # Footer
 st.markdown("---")
-st.markdown("© 2023 Housing Price Prediction App | Created with Streamlit")
+st.markdown("© 2025 Housing Price Prediction App | Created with Streamlit")
