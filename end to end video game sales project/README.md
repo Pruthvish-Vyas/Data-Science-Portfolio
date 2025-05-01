@@ -38,7 +38,7 @@ end-to-end-project/
 │   └── utils.py                # Utility functions
 │
 ├── game_sales_app.py           # Streamlit application for game sales prediction
-├── str.py                      # Example Streamlit application (student scores)
+├── app.py                      # Example Streamlit application (student scores)
 ├── requirements.txt            # Project dependencies
 └── README.md                   # Project documentation
 
