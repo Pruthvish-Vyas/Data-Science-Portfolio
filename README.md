@@ -7,7 +7,7 @@ Repository containing portfolio of data science projects completed by me for  se
 - Run notebooks as usual by using a jupyter notebook server, Vscode etc.
 
 ## Content
-- ## MLops: End to End ML Lifecycle Projects:
+- ## MLops: End to End ML Lifecycle Projects
   - [Facebook Ad Analytics & AI Assistant](https://github.com/Pruthvish-Vyas/Facebook-Ad-Analytics-AI-Assistant): Facebook Ad Analytics AI Assistant is a Python-based tool designed to enhance and automate the analysis of Facebook advertising campaign data. Leveraging AI-driven insights, this assistant streamlines data processing, uncovers actionable trends, and supports marketing teams in optimizing their ad strategies for better ROI. 
   - [Google Analytics Dashboard & Predictor](https://github.com/Pruthvish-Vyas/End-to-End-Google-Analytics-model-building): Developed an end-to-end Google Analytics model using Jupyter Notebook and Python, focusing on data extraction, preprocessing, analysis, and visualization. The project demonstrates a full workflow from raw analytics data to actionable insights, leveraging machine learning techniques for predictive analysis and reporting.
   - [Real Estate Insights: End-to-End ML Deployment](https://github.com/Pruthvish-Vyas/House_price_prediction): Developed a machine learning model to predict house prices based on key features such as location, size, and amenities. Leveraged Python and Jupyter Notebook for data analysis, preprocessing, and model development, and containerized the application using Docker for seamless deployment.
